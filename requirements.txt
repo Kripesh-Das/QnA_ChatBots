@@ -1,0 +1,7 @@
+## USE PYTHON 3.11 AS VENV 
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+langchain_core
+streamlit
