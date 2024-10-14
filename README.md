@@ -12,3 +12,5 @@
 ## Run both the apps on streamlit by
       streamlit run openai_app.py
       streamlit run ollama_app.py
+
+## Screenshots of the actual working model on streamlit are provided in "project_demonstration" folder
